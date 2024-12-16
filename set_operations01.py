@@ -72,4 +72,5 @@ print("Students who play both cricket and badminton- ",both_cricket_and_badminto
 print("Students who play cricket or badminton but not both- ",cricket_or_badminton_but_not_both(cricket,badminton))
 print("Number of students who play neither cricket nor badminton- ",neither_cricket_nor_badminton(cricket,badminton,football))
 print("Number of students who play cricket and football but not badmininton- ",cricket_and_football_not_badminton(cricket,badminton,football))
+print("END")
         
