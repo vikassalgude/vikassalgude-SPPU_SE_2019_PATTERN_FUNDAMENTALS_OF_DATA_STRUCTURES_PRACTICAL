@@ -1,4 +1,4 @@
-sppu
+
 Semester 3
 GroupA_Practical1(python) : practical No. 1 : 
 In a second year computer engineering class, group A students play cricket, group B students play badminton and group C students play football. Write a python program using functions to compute following: a) List of students who play both cricket and badminton. b) List of students who play either cricket or badminton but not both. c) Number of students who play neither cricket nor badminton. d) Number of students who play cricket and football but not badminton. (NOTE : While realising the group, duplicate entries should be avoided. Do not use SET built-in functions)
