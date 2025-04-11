@@ -3,7 +3,7 @@
 using namespace std;
 ///jnonjonijnn
 
-//Function to return precedence of operators
+//Function to return precedence of operatorsdsfcf
 int prec(char c) {
   if (c == '^')
     return 3;
